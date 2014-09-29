@@ -9,7 +9,7 @@ Downloads arbitrary proxy list html & returns a clean ip:port array;
 
 ```php
 require_once("get_proxy_array.func.php");
-$array = get_proxy_array("http://aliveproxy.com/socks5-list/");
+$array = get_proxies("http://aliveproxy.com/socks5-list/");
 ```
 
 ```php

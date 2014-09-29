@@ -3,7 +3,7 @@ PHP-functions
 
 
 
-### get_proxy_array($url)
+### get_proxies($url)
 Downloads arbitrary proxy list html & returns a clean ip:port array;
 
 

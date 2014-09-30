@@ -4,7 +4,7 @@ PHP-functions
 
 
 ### get_proxies($url)
-Downloads & filters the html of any html proxy list, returns a clean ip:port array:
+Downloads & filters any html proxy list, returns a clean ip:port array:
 
 
 ```php
